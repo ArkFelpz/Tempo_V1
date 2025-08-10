@@ -1,0 +1,6 @@
+name: Tempo
+api: [3.11.3, 3.11.0, 3.10.0, 1.12.0, 1.11.2]
+version: 1
+author: ArkFelpz
+main: Main
+commands:
